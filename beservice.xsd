@@ -14,7 +14,7 @@
         </xsd:sequence>
     </xsd:complexType>
 
-    <xsd:complexType name=" ">
+    <xsd:complexType name="ExternalCallResponse">
         <xsd:annotation>
             <xsd:documentation>External Web Service should return this type as request (message part for soap operation output)</xsd:documentation>
         </xsd:annotation>
